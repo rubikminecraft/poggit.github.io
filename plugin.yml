@@ -1,0 +1,8 @@
+name: Test Plugin
+main: Rubikminecraft\Test Plugin\Main
+api: [3.0.0, 3.5.2]
+author: Rubikminecraft
+
+commands:
+ test:
+  description: "My First Plugin Command!"
